@@ -1,0 +1,15 @@
+body {
+	background-image: url(https://img.freepik.com/fotos-gratis/plano-de-luxo-verde-gradiente-abstrato-estudio-fundo-vazio-sala-com-espaco-para-seu-texto-e-imagem_1258-71017.jpg);
+	text-align: center;
+	font-size: 33px;
+	color: gray;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+sections {
+	background-color: gray;
+	width: 70px;
+	padding: 20px;
+}
+
+}
